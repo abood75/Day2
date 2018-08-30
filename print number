@@ -1,0 +1,12 @@
+#include<stdio.h>1
+
+
+int main()
+{
+    int n;
+    printf("enter your number please\n");
+    scanf("%d",&n);
+    printf("your number is\n %d \nthankyou for share your number",n);
+
+    return 0;
+}
